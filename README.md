@@ -22,8 +22,6 @@ Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans
 
 Download the `executable` on our Discord channel `#hwid-spoofer-free`
 
-[Discord](https://discord.gg/8fZ8AXnKUj)
-
 ```sh
 open AIM_ASSIST.exe
 ```
