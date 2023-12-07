@@ -9,7 +9,7 @@ The basis of KioAssist's player detection is the architecture written in Executa
 
 A demo video (outdated) can be found [here](https://discord.gg/8fZ8AXnKUj).
 
-![thumbnail](https://user-images.githubusercontent.com/45726273/126563920-193ca8df-de70-4a91-81ec-d781ee961332.png)
+![thumbnail](https://i.imgur.com/T4qGE3v.png)
 
 ## Installation
 
