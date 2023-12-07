@@ -15,10 +15,6 @@ A demo video (outdated) can be found [here](https://discord.gg/8fZ8AXnKUj).
 
 1. Get the guide and updates here [Discord](https://discord.gg/8fZ8AXnKUj)
 
-## Issues
-- The method of mouse movement ([SendInput](https://github.com/zeyad-mansour/lunar/blob/45e05373036f8bd072667313c155e55735cd7f57/lib/aimbot.py#L126)) is slow. For this reason, the crosshair often lags behind a moving detection. This problem can be lessened by increasing the [pixel_increment](https://github.com/zeyad-mansour/lunar/blob/45e05373036f8bd072667313c155e55735cd7f57/lib/aimbot.py#L56) (e.g. to 4) so fewer calls to that function are made.
-- False positives can also happen under certain lighting conditions.
-
 If you find this project interesting or helpful, please star the repository.
 
 ## License
